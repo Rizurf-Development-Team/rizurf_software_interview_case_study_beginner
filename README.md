@@ -8,7 +8,7 @@
 3. Once done, kindly email your repository link to felicia.yap@rizurf.com
 
 ```diff
-NOTICE - You are allowed to use any available web technologies & frameworks to implement the tasks
+ - You are allowed to use any available web technologies & frameworks to implement the tasks
 ```
 
 ### Administrator 
