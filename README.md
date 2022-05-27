@@ -1,4 +1,4 @@
-# Rizurf Software Engineering Interview Case Study
+# Rizurf Software Engineering Interview Case Study - Internship 
 ## Web Development Assessment 
 
 
