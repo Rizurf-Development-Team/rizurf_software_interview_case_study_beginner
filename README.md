@@ -3,7 +3,7 @@
 ### Web Development Assessment 
 
 
-- [] Authentication system - login & signup 
+- [ ] Authentication system - login & signup 
 Basic CRUD functions 
 User will be able to create new product 
 User will be able to view all their own created product 
