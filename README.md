@@ -7,6 +7,10 @@
 2. Implementing user requirements & functionalities as stated below 
 3. Once done, kindly email your repository link to felicia.yap@rizurf.com
 
+```diff
+- You are allowed to use any available web technologies & frameworks to implement the tasks
+```
+
 ### Administrator 
 - [ ] Authentication  - signup, login and logout 
 - [ ] Admin will be able to create new product 
