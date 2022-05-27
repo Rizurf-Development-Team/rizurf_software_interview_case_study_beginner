@@ -1,8 +1,7 @@
 # rizurf_software_interview_case_study
+##Web Development Assessment 
 
-### Web Development Assessment 
-
-## In this section, basic authentication, database techniques and CRUD functions will be tested on the candidates. 
+### In this section, basic authentication, database techniques and CRUD functions will be tested on the candidates. 
 
 ### Administrator 
 - [ ] Authentication  - signup, login and logout 
