@@ -1,4 +1,4 @@
-# rizurf_software_interview_case_study
+# Rizurf Software Engineering Interview Case Study
 ## Web Development Assessment 
 
 
