@@ -1,6 +1,7 @@
 # rizurf_software_interview_case_study
 ## Web Development Assessment 
 
+
 #### In this section, basic authentication, database techniques and CRUD functions will be tested on the candidates. 
 1. Fork the repository to your own independent machine 
 2. Implementing user requirements & functionalities as stated below 
