@@ -11,14 +11,17 @@
 -  You are allowed to use any available web technologies & frameworks to implement the tasks. 
 ```
 
-### Administrator 
-- [ ] Authentication  - signup, login and logout 
+### Administrator (Required)
+- [ ] Authentication  - signup (default), login and logout 
 - [ ] Admin will be able to create new product 
 - [ ] Admin will be able to view all their own created product 
 - [ ] Admin will be able to modify/update specific product 
 - [ ] Admin will be able to remove/delete specific product 
 - [ ] Additional Feature (optional)
 
-
-
-
+### Customer (Optional - Bonus)
+- [ ] Authentication - signup, login and logout 
+- [ ] Customer will be able to view all Product 
+- [ ] Customer will be able to view specific Product and its details 
+- [ ] Customer will be able to add one/multiple desired product to their cart 
+- [ ] Customer will be able to make payment 
