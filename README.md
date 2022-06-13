@@ -11,6 +11,10 @@
 -  You are allowed to use any available web technologies & frameworks to implement the tasks. 
 ```
 
+```diff
+-  Please remember to attach your sql database as well 
+```
+
 ### Administrator (Required)
 - [ ] Authentication  - signup (default), login and logout 
 - [ ] Admin will be able to create new product 
